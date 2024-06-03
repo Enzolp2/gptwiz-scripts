@@ -1,0 +1,65 @@
+ 
+TDM Systems GmbH · A Member of the SANDVIK Group  FAQ_Client_Install_Guide_2018.docx  
+Support +49.7071.9492 -800 · support@tdmsystems.com · www.tdmsystems.com  1/5  
+Client Installation Guide (TDM 2018)  
+ 
+ 
+1. Start “TDM Systems - Client V4 Installer - 201801HF4.exe ” as admin  
+ 
+2. Select the language for the installation  
+ 
+ 
+ 
+3. Click “Next”  
+ 
+ 
+ 
+ 
+TDM Systems GmbH · A Member of the SANDVIK Group  FAQ_Client_Install_Guide_2018.docx  
+Support +49.7071.9492 -800 · support@tdmsystems.com · www.tdmsystems.com  2/5  
+4. Select your license and click “Next”  
+ 
+ 
+ 
+5. Accept terms and click “Next”  
+ 
+ 
+ 
+  
+ 
+TDM Systems GmbH · A Member of the SANDVIK Group  FAQ_Client_Install_Guide_2018.docx  
+Support +49.7071.9492 -800 · support@tdmsystems.com · www.tdmsystems.com  3/5  
+6. Search for the Server  directory and c lick “Next”  
+ 
+ 
+ 
+7. Select your database,  
+if you are using different password for user TMS or TMSDIV, please typ them in,  
+than c lick “Next”.  
+ 
+ 
+ 
+  
+ 
+TDM Systems GmbH · A Member of the SANDVIK Group  FAQ_Client_Install_Guide_2018.docx  
+Support +49.7071.9492 -800 · support@tdmsystems.com · www.tdmsystems.com  4/5  
+8. Click “Next”  
+ 
+ 
+ 
+9. Click “Install”  
+ 
+ 
+ 
+ 
+  
+ 
+TDM Systems GmbH · A Member of the SANDVIK Group  FAQ_Client_Install_Guide_2018.docx  
+Support +49.7071.9492 -800 · support@tdmsystems.com · www.tdmsystems.com  5/5  
+10. Click “Next”  
+ 
+ 
+ 
+11. Click “Finish”  
+ 
+ 
